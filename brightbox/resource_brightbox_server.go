@@ -2,7 +2,7 @@ package brightbox
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	brightbox "github.com/brightbox/gobrightbox"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/resource"

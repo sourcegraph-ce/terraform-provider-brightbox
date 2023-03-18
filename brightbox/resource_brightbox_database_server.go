@@ -2,7 +2,7 @@ package brightbox
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	brightbox "github.com/brightbox/gobrightbox"
