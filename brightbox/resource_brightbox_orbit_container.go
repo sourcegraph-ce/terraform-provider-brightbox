@@ -1,7 +1,7 @@
 package brightbox
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/url"
 	"strings"
 	"time"
